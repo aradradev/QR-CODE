@@ -10,6 +10,10 @@
 body{
     background-color:hsl(212, 45%, 89%);
     font-family: 'Outfit', sans-serif;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .attribute{
@@ -45,3 +49,9 @@ p{
     color: whitesmoke;
 }
 
+@media screen and (max-width: 420px) {
+    body{
+        max-width: 320px;
+        padding: 16px;
+    }
+}
