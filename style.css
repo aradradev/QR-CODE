@@ -12,7 +12,7 @@ body{
     font-family: 'Outfit', sans-serif;
 }
 
-.container{
+.attribute{
     width: 100px;
     margin: 0 auto;
     display: flex;
@@ -29,20 +29,19 @@ img{
     padding: 20px;
     border-radius: 20px;
     margin-top: 17px;
-    margin-bottom: 17px;
+
     background-color: white;
 }
 .card h1{
     margin-top: 12px;
     margin-bottom: 12px;
-    font-weight: 700;
+    font-family: 'Outfit', serif;
+    font-weight: 400;
 }
 
 p{
     font-size: 15px;
-    font-weight: 400;
+    font-family: 'Outfit';
+    color: whitesmoke;
 }
 
-.footer{
-    margin-top: 20px;
-}

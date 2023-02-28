@@ -24,9 +24,8 @@ This is the screenshot of the project
 - Live Site URL: (https://qr-code-sigma-two.vercel.app/)
 
 ### Built with
-
-- HTML
-- CSS properties
+- HTML5
+- CSS3 properties
 - Flexbox
 
 ### Continued development
